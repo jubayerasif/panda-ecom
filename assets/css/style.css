@@ -12,8 +12,12 @@ body
 .nav-item{
     margin-left: 40px;
 }
-
-
+section > nav{
+    margin-bottom: 25px;
+}
+.carousel-inner{
+    background-color: #FEEAE9;
+}
 
 
 /* Thanks for watching */
