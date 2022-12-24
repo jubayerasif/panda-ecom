@@ -59,6 +59,7 @@ section > nav{
     -o-border-radius: 15px;
     color: #fff;
     padding: 10px 35px ;
+    margin-bottom: 50px;
 }
 .card1{
     background-color: #FFA132;
@@ -69,9 +70,41 @@ section > nav{
 .card3{
     background-color: #4289FF;
 }
-
-
-
+.products{
+    background-color: rgb(242, 241, 241);
+    padding-top: 5px;
+}
+.card-body > a{
+    padding: 12px 28px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+    color: white;
+    background-color: #1F1F1F;
+    text-decoration: none;
+    font-size: 19px;
+    font-weight: 400;
+}
+.card-body{
+    text-align: center;
+}
+.card-body > h4{
+    font-weight: 300;
+    margin-bottom: 35px;
+}
+.card img{
+    margin-top: 45px;
+}
+.card-title{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.card-text{
+    opacity: 50%;
+    margin-bottom: 50px;
+}
 
 
 
