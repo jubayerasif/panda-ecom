@@ -51,6 +51,28 @@ section > nav{
     margin-bottom: 25px;
 }
 
+.card1, .card2, .card3{
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    color: #fff;
+    padding: 10px 35px ;
+}
+.card1{
+    background-color: #FFA132;
+}
+.card2{
+    background-color: #FF418C;
+}
+.card3{
+    background-color: #4289FF;
+}
+
+
+
+
 
 
 /* Thanks for watching */
