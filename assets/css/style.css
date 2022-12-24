@@ -25,6 +25,7 @@ section > nav{
     height: 625px;
     padding-top: 25px;
     padding-left: 65px;
+    margin-bottom: 50px;
 }
 .carousel >.carousel-inner > .carousel-item > .row > .col-md-7> a{
     padding: 12px 28px;
@@ -49,6 +50,8 @@ section > nav{
     margin-top: 25px;
     margin-bottom: 25px;
 }
+
+
 
 /* Thanks for watching */
 /* ##/11/2022 */
